@@ -1,0 +1,7 @@
+submission/
+jenkins-data/
+jenkins-docker-certs/
+grafana/
+app/
+submission.zip
+nginx/logs/
